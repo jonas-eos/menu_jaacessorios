@@ -17,7 +17,14 @@ header {
     text-align: center;
 }
 
-h1, h2, h3, .price {
+a:link {
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+.price {
     font-family: 'Alata', sans-serif;
 }
 
@@ -26,12 +33,13 @@ img {
     height: 300px;
 }
 
-header, section {
+header,
+section {
     max-width: 300px;
     margin: 0 auto;
 }
 
-header h1{
+header h1 {
     margin-bottom: 4px;
 }
 
