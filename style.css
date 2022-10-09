@@ -61,7 +61,7 @@ img {
 }
 
 header,
-section {
+#app {
     max-width: 30rem;
     margin: 0 auto;
 }
@@ -70,11 +70,11 @@ header h1 {
     margin-bottom: 4px;
 }
 
-section {
+#app {
     margin-bottom: 2.4rem;
 }
 
-section h2 {
+#app h2 {
     background-color: #023853;
     text-align: center;
     color: #c6c6c6;
@@ -82,14 +82,14 @@ section h2 {
     margin-bottom: 2.4rem;
 }
 
-ul li {
-    margin-bottom: 1.6rem;
-    display: flex;
-}
-
 li {
     font-size: 1.4rem;
     text-align: left;
+}
+
+li a {
+    margin-bottom: 1.6rem;
+    display: flex;
 }
 
 li .details {
