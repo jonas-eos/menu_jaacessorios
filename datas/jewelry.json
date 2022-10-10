@@ -1,11 +1,5 @@
 [
   {
-    "name": "Franja ponteira borboleta cristal",
-    "price": "33.50",
-    "code": "B527",
-    "category": "Brinco"
-  },
-  {
     "name": "Ear Cuff franja micro zircônias prata",
     "price": "50.99",
     "code": "B691",
@@ -48,12 +42,6 @@
     "category": "Colar"
   },
   {
-    "name": "Cristal geometrico",
-    "price": "21.50",
-    "code": "C839",
-    "category": "Colar"
-  },
-  {
     "name": "Corações chapeados prata",
     "price": "44.50",
     "code": "C043",
@@ -66,27 +54,9 @@
     "category": "Colar"
   },
   {
-    "name": "Elos largos vazado",
-    "price": "33.99",
-    "code": "C769",
-    "category": "Colar"
-  },
-  {
-    "name": "Descontruida ouro",
-    "price": "21.50",
-    "code": "C803",
-    "category": "Colar"
-  },
-  {
     "name": "Nano bolinhas",
     "price": "24.90",
     "code": "C100",
-    "category": "Colar"
-  },
-  {
-    "name": "Mini riviera colorido",
-    "price": "28.50",
-    "code": "C101",
     "category": "Colar"
   },
   {
@@ -96,27 +66,135 @@
     "category": "Colar"
   },
   {
-    "name": "Corrente escovadas",
-    "price": "24.99",
-    "code": "C104",
-    "category": "Colar"
-  },
-  {
-    "name": "Com perolas e cristais turquesa",
-    "price": "26.99",
-    "code": "C126",
-    "category": "Colar"
-  },
-  {
     "name": "Corações escovados",
     "price": "29.99",
     "code": "CJ815",
     "category": "Conjunto"
   },
   {
-    "name": "Gota rose e cristais colors",
-    "price": "72.99",
-    "code": "CJ356",
+    "name": "Tubo prata",
+    "price": "21.50",
+    "code": "P999",
+    "category": "Pulseira"
+  },
+  {
+    "name": "Corações perolado",
+    "price": "21.50",
+    "code": "P977",
+    "category": "Pulseira"
+  },
+  {
+    "name": "Pingente Teddy",
+    "price": "22.99",
+    "code": "P962",
+    "category": "Pulseira"
+  },
+  {
+    "name": "Malha fina",
+    "price": "21.50",
+    "code": "P947",
+    "category": "Pulseira"
+  },
+  {
+    "name": "Elos",
+    "price": "21.50",
+    "code": "P102",
+    "category": "Pulseira"
+  },
+  {
+    "name": "Dois fios estrela cravejada",
+    "price": "21.50",
+    "code": "P101",
+    "category": "Pulseira"
+  },
+  {
+    "name": "Medalhas",
+    "price": "21.50",
+    "code": "P100",
+    "category": "Pulseira"
+  },
+  {
+    "name": "Nossa Senhora",
+    "price": "28.50",
+    "code": "CJ263",
     "category": "Conjunto"
+  },
+  {
+    "name": "Cravejada luas e estrelas",
+    "price": "22.99",
+    "code": "C798",
+    "category": "Colar"
+  },
+  {
+    "name": "Corrente perolas e borboleta",
+    "price": "21.50",
+    "code": "C792",
+    "category": "Colar"
+  },
+  {
+    "name": "Gota e cristais esmeralda",
+    "price": "26.99",
+    "code": "C669",
+    "category": "Colar"
+  },
+  {
+    "name": "Dois fios perolas e esferas ",
+    "price": "29.99",
+    "code": "C192",
+    "category": "Colar"
+  },
+  {
+    "name": "Dois fios com ponto de luz e cadeado",
+    "price": "29.90",
+    "code": "C170",
+    "category": "Colar"
+  },
+  {
+    "name": "Corrente Elos",
+    "price": "24.99",
+    "code": "C105",
+    "category": "Colar"
+  },
+  {
+    "name": "Mini chapinhas",
+    "price": "24.99",
+    "code": "C103",
+    "category": "Colar"
+  },
+  {
+    "name": "lariat ponto de luz e perolas",
+    "price": "26.99",
+    "code": "C053",
+    "category": "Colar"
+  },
+  {
+    "name": "Mini árvore zircônias colors",
+    "price": "23.50",
+    "code": "B699",
+    "category": "Brinco"
+  },
+  {
+    "name": "Cascata zirconia prata",
+    "price": "29.99",
+    "code": "B476",
+    "category": "Brinco"
+  },
+  {
+    "name": "Pedraria zirconia frutacor",
+    "price": "45.99",
+    "code": "B177",
+    "category": "Brinco"
+  },
+  {
+    "name": "Pedraria zirconia morganita",
+    "price": "45.99",
+    "code": "B176",
+    "category": "Brinco"
+  },
+  {
+    "name": "Pressão coração cravejado",
+    "price": "21.50",
+    "code": "B101",
+    "category": "Brinco"
   }
 ]
