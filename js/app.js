@@ -1,4 +1,4 @@
-import jewelrys from '../datas/jewelry.json' assert {type: 'json'};
+import { jewelrys }  from '../datas/jewelry.js';
 
 export class App {
   #category;
