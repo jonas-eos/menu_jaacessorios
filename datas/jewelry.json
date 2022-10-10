@@ -196,5 +196,47 @@
     "price": "21.50",
     "code": "B101",
     "category": "Brinco"
+  },
+  {
+    "name": "Verde Com Vermelho",
+    "price": "52.50",
+    "code": "CJ246",
+    "category": "Conjunto"
+  },
+  {
+    "name": "Manta",
+    "price": "19.99",
+    "code": "C730",
+    "category": "Colar"
+  },
+  {
+    "name": "Gota rubi",
+    "price": "18.99",
+    "code": "C092",
+    "category": "Colar"
+  },
+  {
+    "name": "Lariat cravejado Esmeralda",
+    "price": "22.00",
+    "code": "C091",
+    "category": "Colar"
+  },
+  {
+    "name": "Dupla argola cravejada zirconias cristais",
+    "price": "35.99",
+    "code": "B552",
+    "category": "Brinco"
+  },
+  {
+    "name": "Argolinha Mini Bolinhas",
+    "price": "15.50",
+    "code": "B007",
+    "category": "Brinco"
+  },
+  {
+    "name": "Circulo franja cravejada",
+    "price": "15.99",
+    "code": "C081",
+    "category": "Brinco"
   }
 ]
