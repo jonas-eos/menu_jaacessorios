@@ -1,11 +1,5 @@
 export const jewelrys = [
   {
-    name: "Ear Cuff franja micro zircônias prata",
-    price: "50.99",
-    code: "B691",
-    category: "Brinco"
-  },
-  {
     name: " Coração vazado",
     price: "15.00",
     code: "B745",
@@ -21,12 +15,6 @@ export const jewelrys = [
     name: "Flor pedraria rosa",
     price: "45.99",
     code: "B760",
-    category: "Brinco"
-  },
-  {
-    name: "Corrente três elos",
-    price: "21.99",
-    code: "B769",
     category: "Brinco"
   },
   {
@@ -78,12 +66,6 @@ export const jewelrys = [
     category: "Pulseira"
   },
   {
-    name: "Corações perolado",
-    price: "21.50",
-    code: "P977",
-    category: "Pulseira"
-  },
-  {
     name: "Pingente Teddy",
     price: "22.99",
     code: "P962",
@@ -102,22 +84,10 @@ export const jewelrys = [
     category: "Pulseira"
   },
   {
-    name: "Dois fios estrela cravejada",
-    price: "21.50",
-    code: "P101",
-    category: "Pulseira"
-  },
-  {
     name: "Medalhas",
     price: "21.50",
     code: "P100",
     category: "Pulseira"
-  },
-  {
-    name: "Nossa Senhora",
-    price: "28.50",
-    code: "CJ263",
-    category: "Conjunto"
   },
   {
     name: "Cravejada luas e estrelas",
@@ -144,21 +114,9 @@ export const jewelrys = [
     category: "Colar"
   },
   {
-    name: "Dois fios com ponto de luz e cadeado",
-    price: "29.90",
-    code: "C170",
-    category: "Colar"
-  },
-  {
     name: "Corrente Elos",
     price: "24.99",
     code: "C105",
-    category: "Colar"
-  },
-  {
-    name: "Mini chapinhas",
-    price: "24.99",
-    code: "C103",
     category: "Colar"
   },
   {
@@ -166,18 +124,6 @@ export const jewelrys = [
     price: "26.99",
     code: "C053",
     category: "Colar"
-  },
-  {
-    name: "Mini árvore zircônias colors",
-    price: "23.50",
-    code: "B699",
-    category: "Brinco"
-  },
-  {
-    name: "Cascata zirconia prata",
-    price: "29.99",
-    code: "B476",
-    category: "Brinco"
   },
   {
     name: "Pedraria zirconia frutacor",
@@ -189,12 +135,6 @@ export const jewelrys = [
     name: "Pedraria zirconia morganita",
     price: "45.99",
     code: "B176",
-    category: "Brinco"
-  },
-  {
-    name: "Pressão coração cravejado",
-    price: "21.50",
-    code: "B101",
     category: "Brinco"
   },
   {
@@ -210,22 +150,10 @@ export const jewelrys = [
     category: "Colar"
   },
   {
-    name: "Gota rubi",
-    price: "18.99",
-    code: "C092",
-    category: "Colar"
-  },
-  {
     name: "Lariat cravejado Esmeralda",
     price: "22.00",
     code: "C091",
     category: "Colar"
-  },
-  {
-    name: "Dupla argola cravejada zirconias cristais",
-    price: "35.99",
-    code: "B552",
-    category: "Brinco"
   },
   {
     name: "Argolinha Mini Bolinhas",
