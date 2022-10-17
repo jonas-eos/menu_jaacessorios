@@ -36,18 +36,6 @@ export const jewelrys = [
     category: "Colar"
   },
   {
-    name: "Chapinhas pingente coração de zirconia",
-    price: "21.50",
-    code: "C011",
-    category: "Colar"
-  },
-  {
-    name: "Nano bolinhas",
-    price: "24.90",
-    code: "C100",
-    category: "Colar"
-  },
-  {
     name: "Corrente elos retangular",
     price: "24.99",
     code: "C102",
@@ -58,12 +46,6 @@ export const jewelrys = [
     price: "29.99",
     code: "CJ815",
     category: "Conjunto"
-  },
-  {
-    name: "Tubo prata",
-    price: "21.50",
-    code: "P999",
-    category: "Pulseira"
   },
   {
     name: "Pingente Teddy",
@@ -90,27 +72,9 @@ export const jewelrys = [
     category: "Pulseira"
   },
   {
-    name: "Cravejada luas e estrelas",
-    price: "22.99",
-    code: "C798",
-    category: "Colar"
-  },
-  {
     name: "Corrente perolas e borboleta",
     price: "21.50",
     code: "C792",
-    category: "Colar"
-  },
-  {
-    name: "Gota e cristais esmeralda",
-    price: "26.99",
-    code: "C669",
-    category: "Colar"
-  },
-  {
-    name: "Dois fios perolas e esferas ",
-    price: "29.99",
-    code: "C192",
     category: "Colar"
   },
   {
@@ -147,12 +111,6 @@ export const jewelrys = [
     name: "Manta",
     price: "19.99",
     code: "C730",
-    category: "Colar"
-  },
-  {
-    name: "Lariat cravejado Esmeralda",
-    price: "22.00",
-    code: "C091",
     category: "Colar"
   },
   {
