@@ -1,11 +1,5 @@
 export const jewelrys = [
   {
-    name: "Argolinha Mini Bolinhas",
-    price: "15.50",
-    code: "B007",
-    category: "Brinco"
-  },
-  {
     name: "Chatton gota blue",
     price: "33.99",
     code: "B175",
@@ -21,18 +15,6 @@ export const jewelrys = [
     name: "Pedraria zirconia frutacor",
     price: "45.99",
     code: "B177",
-    category: "Brinco"
-  },
-  {
-    name: " Coração vazado",
-    price: "15.00",
-    code: "B745",
-    category: "Brinco"
-  },
-  {
-    name: "Flor pedraria rosa",
-    price: "45.99",
-    code: "B760",
     category: "Brinco"
   },
   {
@@ -57,12 +39,6 @@ export const jewelrys = [
     name: "Corações chapeados prata",
     price: "44.50",
     code: "C043",
-    category: "Colar"
-  },
-  {
-    name: "lariat ponto de luz e perolas",
-    price: "26.99",
-    code: "C053",
     category: "Colar"
   },
   {
