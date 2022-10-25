@@ -42,6 +42,18 @@ export const jewelrys = [
     category: "Brinco"
   },
   {
+    name: "Argola Trançada Pequena",
+    price: "33.60",
+    code: "B207",
+    category: "Brinco"
+  },
+  {
+    name: "Pedradia Aquac",
+    price: "35.50",
+    code: "B208",
+    category: "Brinco"
+  },
+  {
     name: "Corações chapeados prata",
     price: "44.50",
     code: "C043",
@@ -54,9 +66,27 @@ export const jewelrys = [
     category: "Colar"
   },
   {
+    name: "Choker Pingente Corações Prata",
+    price: "24.99",
+    code: "C202",
+    category: "Colar"
+  },
+  {
+    name: "Choker Pingente Borboleta",
+    price: "24.99",
+    code: "C203",
+    category: "Colar"
+  },
+  {
     name: "Circulo franja cravejada",
     price: "15.99",
     code: "C081",
+    category: "Brinco"
+  },
+  {
+    name: "Franja Love",
+    price: "31.99",
+    code: "B204",
     category: "Brinco"
   },
   {
@@ -99,6 +129,60 @@ export const jewelrys = [
     name: "Corações escovados",
     price: "29.99",
     code: "CJ815",
+    category: "Conjunto"
+  },
+  {
+    name: "Cristal Esfera",
+    price: "39.99",
+    code: "CJ200",
+    category: "Conjunto"
+  },
+  {
+    name: "Esfera Esmeralda",
+    price: "39.99",
+    code: "CJ201",
+    category: "Conjunto"
+  },
+  {
+    name: "Esfera Rosa",
+    price: "45.99",
+    code: "CJ202",
+    category: "Conjunto"
+  },
+  {
+    name: "Coração White",
+    price: "48.99",
+    code: "CJ203",
+    category: "Conjunto"
+  },
+  {
+    name: "Gota Lilas",
+    price: "55.00",
+    code: "CJ204",
+    category: "Conjunto"
+  },
+  {
+    name: "Ponto de Luz M",
+    price: "39.99",
+    code: "CJ205",
+    category: "Conjunto"
+  },
+  {
+    name: "Coração Zirconia Azul",
+    price: "66.50",
+    code: "CJ206",
+    category: "Conjunto"
+  },
+  {
+    name: "Coração Fusion Lilás",
+    price: "55.00",
+    code: "CJ207",
+    category: "Conjunto"
+  },
+  {
+    name: "Gota Esmeralda",
+    price: "44.99",
+    code: "CJ208",
     category: "Conjunto"
   },
   {
