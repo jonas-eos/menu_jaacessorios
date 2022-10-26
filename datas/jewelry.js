@@ -24,27 +24,9 @@ export const jewelrys = [
     category: "Brinco"
   },
   {
-    name: "Argola Trançada Pequena",
-    price: "33.60",
-    code: "B207",
-    category: "Brinco"
-  },
-  {
-    name: "Pedradia Aquac",
-    price: "35.50",
-    code: "B208",
-    category: "Brinco"
-  },
-  {
     name: "Corações chapeados prata",
     price: "44.50",
     code: "C043",
-    category: "Colar"
-  },
-  {
-    name: "Choker Pingente Corações Prata",
-    price: "24.99",
-    code: "C202",
     category: "Colar"
   },
   {
@@ -57,12 +39,6 @@ export const jewelrys = [
     name: "Circulo franja cravejada",
     price: "15.99",
     code: "C081",
-    category: "Brinco"
-  },
-  {
-    name: "Franja Love",
-    price: "31.99",
-    code: "B204",
     category: "Brinco"
   },
   {
@@ -87,12 +63,6 @@ export const jewelrys = [
     name: "Manta",
     price: "19.99",
     code: "C730",
-    category: "Colar"
-  },
-  {
-    name: "Corrente perolas e borboleta",
-    price: "21.50",
-    code: "C792",
     category: "Colar"
   },
   {
@@ -138,12 +108,6 @@ export const jewelrys = [
     category: "Conjunto"
   },
   {
-    name: "Ponto de Luz M",
-    price: "39.99",
-    code: "CJ205",
-    category: "Conjunto"
-  },
-  {
     name: "Coração Zirconia Azul",
     price: "66.50",
     code: "CJ206",
@@ -160,12 +124,6 @@ export const jewelrys = [
     price: "44.99",
     code: "CJ208",
     category: "Conjunto"
-  },
-  {
-    name: "Medalhas",
-    price: "21.50",
-    code: "P100",
-    category: "Pulseira"
   },
   {
     name: "Elos",
