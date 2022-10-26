@@ -30,12 +30,6 @@ export const jewelrys = [
     category: "Colar"
   },
   {
-    name: "Choker Pingente Borboleta",
-    price: "24.99",
-    code: "C203",
-    category: "Colar"
-  },
-  {
     name: "Circulo franja cravejada",
     price: "15.99",
     code: "C081",
@@ -90,12 +84,6 @@ export const jewelrys = [
     category: "Conjunto"
   },
   {
-    name: "Esfera Rosa",
-    price: "45.99",
-    code: "CJ202",
-    category: "Conjunto"
-  },
-  {
     name: "Coração White",
     price: "48.99",
     code: "CJ203",
@@ -105,12 +93,6 @@ export const jewelrys = [
     name: "Gota Lilas",
     price: "55.00",
     code: "CJ204",
-    category: "Conjunto"
-  },
-  {
-    name: "Coração Zirconia Azul",
-    price: "66.50",
-    code: "CJ206",
     category: "Conjunto"
   },
   {
