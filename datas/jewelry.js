@@ -18,9 +18,39 @@ export const jewelrys = [
     category: "Brinco"
   },
   {
-    name: "Nó em malha",
-    price: "31.99",
-    code: "B804",
+    name: "Argola P Lisa",
+    price: "14.50",
+    code: "B010",
+    category: "Brinco"
+  },
+  {
+    name: "Franja ponteira zirconia",
+    price: "27.50",
+    code: "B456",
+    category: "Brinco"
+  },
+  {
+    name: "Festa zirconias rubi",
+    price: "27.99",
+    code: "B591",
+    category: "Brinco"
+  },
+  {
+    name: "Ear Cuff navetes e franja",
+    price: "45.99",
+    code: "B795",
+    category: "Brinco"
+  },
+  {
+    name: "Argola três fio M",
+    price: "24.99",
+    code: "B904",
+    category: "Brinco"
+  },
+  {
+    name: "Argola detalhe micro Zirconia",
+    price: "21.99",
+    code: "B919",
     category: "Brinco"
   },
   {
@@ -60,27 +90,27 @@ export const jewelrys = [
     category: "Colar"
   },
   {
-    name: "Verde Com Vermelho",
-    price: "52.50",
-    code: "CJ246",
-    category: "Conjunto"
+    name: "Riviera duo cravejada",
+    price: "14.97",
+    code: "C881",
+    category: "Colar"
+  },
+  {
+    name: "Choker tubo navete prata",
+    price: "33.99",
+    code: "C890P",
+    category: "Colar"
+  },
+  {
+    name: "Riviera zirconia",
+    price: "24.99",
+    code: "C895",
+    category: "Colar"
   },
   {
     name: "Corações escovados",
     price: "29.99",
     code: "CJ815",
-    category: "Conjunto"
-  },
-  {
-    name: "Cristal Esfera",
-    price: "39.99",
-    code: "CJ200",
-    category: "Conjunto"
-  },
-  {
-    name: "Esfera Esmeralda",
-    price: "39.99",
-    code: "CJ201",
     category: "Conjunto"
   },
   {
@@ -102,16 +132,10 @@ export const jewelrys = [
     category: "Conjunto"
   },
   {
-    name: "Gota Esmeralda",
-    price: "44.99",
-    code: "CJ208",
+    name: "Conjunto coracão cravejado",
+    price: "35.50",
+    code: "CJ360",
     category: "Conjunto"
-  },
-  {
-    name: "Elos",
-    price: "21.50",
-    code: "P102",
-    category: "Pulseira"
   },
   {
     name: "Malha fina",
@@ -120,9 +144,33 @@ export const jewelrys = [
     category: "Pulseira"
   },
   {
-    name: "Pingente Teddy",
-    price: "22.99",
-    code: "P962",
+    name: "Pulseira coração micro zirconia",
+    price: "18.50",
+    code: "P047",
     category: "Pulseira"
+  },
+  {
+    name: "Fake dois fios colors",
+    price: "19.50",
+    code: "PG010",
+    category: "Piercing"
+  },
+  {
+    name: "Fake prata liso",
+    price: "12.99",
+    code: "PG011",
+    category: "Piercing"
+  },
+  {
+    name: "Pedraria verde água",
+    price: "23.99",
+    code: "PG090",
+    category: "Piercing"
+  },
+  {
+    name: "Encaixe cravejado zirconia",
+    price: "26.99",
+    code: "PG116",
+    category: "Piercing"
   }
 ]
