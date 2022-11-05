@@ -24,12 +24,6 @@ export const jewelrys = [
     category: "Brinco"
   },
   {
-    name: "Franja ponteira zirconia",
-    price: "27.50",
-    code: "B456",
-    category: "Brinco"
-  },
-  {
     name: "Festa zirconias rubi",
     price: "27.99",
     code: "B591",
@@ -54,6 +48,18 @@ export const jewelrys = [
     category: "Brinco"
   },
   {
+    name: "Argola trabalhana, pino",
+    price: "26.99",
+    code: "B530",
+    category: "Brinco"
+  },
+  {
+    name: "Coração Esmeralda",
+    price: "28.99",
+    code: "B206",
+    category: "Brinco"
+  },
+  {
     name: "Corações chapeados prata",
     price: "44.50",
     code: "C043",
@@ -64,12 +70,6 @@ export const jewelrys = [
     price: "15.99",
     code: "C081",
     category: "Brinco"
-  },
-  {
-    name: "Corrente elos retangular",
-    price: "24.99",
-    code: "C102",
-    category: "Colar"
   },
   {
     name: "Corrente Elos",
@@ -108,12 +108,6 @@ export const jewelrys = [
     category: "Colar"
   },
   {
-    name: "Corações escovados",
-    price: "29.99",
-    code: "CJ815",
-    category: "Conjunto"
-  },
-  {
     name: "Coração White",
     price: "48.99",
     code: "CJ203",
@@ -132,21 +126,9 @@ export const jewelrys = [
     category: "Conjunto"
   },
   {
-    name: "Conjunto coracão cravejado",
-    price: "35.50",
-    code: "CJ360",
-    category: "Conjunto"
-  },
-  {
     name: "Malha fina",
     price: "21.50",
     code: "P947",
-    category: "Pulseira"
-  },
-  {
-    name: "Pulseira coração micro zirconia",
-    price: "18.50",
-    code: "P047",
     category: "Pulseira"
   },
   {
@@ -171,6 +153,12 @@ export const jewelrys = [
     name: "Encaixe cravejado zirconia",
     price: "26.99",
     code: "PG116",
+    category: "Piercing"
+  },
+  {
+    name: "Fake com brinco",
+    price: "17.99",
+    code: "PG100",
     category: "Piercing"
   }
 ]
