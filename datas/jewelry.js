@@ -66,12 +66,6 @@ export const jewelrys = [
     category: "Colar"
   },
   {
-    name: "Circulo franja cravejada",
-    price: "15.99",
-    code: "C081",
-    category: "Brinco"
-  },
-  {
     name: "Corrente Elos",
     price: "24.99",
     code: "C105",
