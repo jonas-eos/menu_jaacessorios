@@ -36,12 +36,6 @@ export const jewelrys = [
     category: "Brinco"
   },
   {
-    name: "Argola três fio M",
-    price: "24.99",
-    code: "B904",
-    category: "Brinco"
-  },
-  {
     name: "Argola detalhe micro Zirconia",
     price: "21.99",
     code: "B919",
@@ -84,21 +78,9 @@ export const jewelrys = [
     category: "Colar"
   },
   {
-    name: "Riviera duo cravejada",
-    price: "14.97",
-    code: "C881",
-    category: "Colar"
-  },
-  {
     name: "Choker tubo navete prata",
     price: "33.99",
     code: "C890P",
-    category: "Colar"
-  },
-  {
-    name: "Riviera zirconia",
-    price: "24.99",
-    code: "C895",
     category: "Colar"
   },
   {
@@ -120,12 +102,6 @@ export const jewelrys = [
     category: "Conjunto"
   },
   {
-    name: "Malha fina",
-    price: "21.50",
-    code: "P947",
-    category: "Pulseira"
-  },
-  {
     name: "Fake dois fios colors",
     price: "19.50",
     code: "PG010",
@@ -141,12 +117,6 @@ export const jewelrys = [
     name: "Pedraria verde água",
     price: "23.99",
     code: "PG090",
-    category: "Piercing"
-  },
-  {
-    name: "Encaixe cravejado zirconia",
-    price: "26.99",
-    code: "PG116",
     category: "Piercing"
   },
   {
