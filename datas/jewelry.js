@@ -18,12 +18,6 @@ export const jewelrys = [
     category: "Brinco"
   },
   {
-    name: "Argola P Lisa",
-    price: "14.50",
-    code: "B010",
-    category: "Brinco"
-  },
-  {
     name: "Festa zirconias rubi",
     price: "27.99",
     code: "B591",
@@ -33,12 +27,6 @@ export const jewelrys = [
     name: "Ear Cuff navetes e franja",
     price: "45.99",
     code: "B795",
-    category: "Brinco"
-  },
-  {
-    name: "Argola detalhe micro Zirconia",
-    price: "21.99",
-    code: "B919",
     category: "Brinco"
   },
   {
@@ -52,12 +40,6 @@ export const jewelrys = [
     price: "28.99",
     code: "B206",
     category: "Brinco"
-  },
-  {
-    name: "Corações chapeados prata",
-    price: "44.50",
-    code: "C043",
-    category: "Colar"
   },
   {
     name: "Corrente Elos",
@@ -96,12 +78,6 @@ export const jewelrys = [
     category: "Conjunto"
   },
   {
-    name: "Coração Fusion Lilás",
-    price: "55.00",
-    code: "CJ207",
-    category: "Conjunto"
-  },
-  {
     name: "Fake dois fios colors",
     price: "19.50",
     code: "PG010",
@@ -117,12 +93,6 @@ export const jewelrys = [
     name: "Pedraria verde água",
     price: "23.99",
     code: "PG090",
-    category: "Piercing"
-  },
-  {
-    name: "Fake com brinco",
-    price: "17.99",
-    code: "PG100",
     category: "Piercing"
   }
 ]
