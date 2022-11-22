@@ -1,5 +1,17 @@
 export const jewelrys = [
   {
+    name: "Prata Aro 12",
+    price: "26.50",
+    code: "AN001",
+    category: "Anel"
+  },
+  {
+    name: "Quadrado Ouro",
+    price: "30.99",
+    code: "AN002",
+    category: "Anel"
+  },
+  {
     name: "Chatton gota blue",
     price: "33.99",
     code: "B175",
@@ -198,6 +210,18 @@ export const jewelrys = [
     category: "Brinco"
   },
   {
+    name: "Mini Argola Coração - Azul Prata",
+    price: "24.50",
+    code: "B4910",
+    category: "Brinco"
+  },
+  {
+    name: "Mini Argola Gota - Prata Cristal",
+    price: "24.99",
+    code: "B5006",
+    category: "Brinco"
+  },
+  {
     name: "Corrente Elos",
     price: "24.99",
     code: "C105",
@@ -276,6 +300,18 @@ export const jewelrys = [
     category: "Colar"
   },
   {
+    name: "Colar Gargantilha Fio Zirconia",
+    price: "22.99",
+    code: "C8602",
+    category: "Colar"
+  },
+  {
+    name: "Colar Fio Coração Zirconia Prata",
+    price: "21.00",
+    code: "C8702",
+    category: "Colar"
+  },
+  {
     name: "Coração White",
     price: "48.99",
     code: "CJ203",
@@ -312,6 +348,30 @@ export const jewelrys = [
     category: "Piercing"
   },
   {
+    name: "Falso Piercing Pressão Corrente",
+    price: "17.99",
+    code: "PG2901",
+    category: "Piercing"
+  },
+  {
+    name: "Falso Piercing Prata",
+    price: "21.00",
+    code: "PG3002",
+    category: "Piercing"
+  },
+  {
+    name: "Falso Piercing Coração Ouro",
+    price: "14.50",
+    code: "PG6901",
+    category: "Piercing"
+  },
+  {
+    name: "Falso Piercing Coração - Prata",
+    price: "14.50",
+    code: "PG6902",
+    category: "Piercing"
+  },
+  {
     name: "Ponto de Luz Zirconia",
     price: "21.00",
     code: "PL101",
@@ -327,6 +387,18 @@ export const jewelrys = [
     name: "Estrela e Perola",
     price: "31.00",
     code: "PL107",
+    category: "Pulseira"
+  },
+  {
+    name: "Pulseira Gotas Ouro",
+    price: "31.00",
+    code: "PL102",
+    category: "Pulseira"
+  },
+  {
+    name: "Pulseira Terço Prata",
+    price: "21.00",
+    code: "PL106",
     category: "Pulseira"
   }
 ]
