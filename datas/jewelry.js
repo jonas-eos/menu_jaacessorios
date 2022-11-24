@@ -198,12 +198,6 @@ export const jewelrys = [
     category: "Brinco"
   },
   {
-    name: "Martelado",
-    price: "26.50",
-    code: "B900",
-    category: "Brinco"
-  },
-  {
     name: "Mini Argola Coração",
     price: "15.99",
     code: "B1401",
