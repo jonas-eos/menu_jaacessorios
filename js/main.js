@@ -6,4 +6,4 @@ new App('#app', 'Colar');
 new App('#app', 'Conjunto');
 new App('#app', 'Piercing');
 new App('#app', 'Pulseira');
-// new App('#app', 'Tornozeleira');
+new App('#app', 'Tornozeleira');

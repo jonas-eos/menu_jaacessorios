@@ -222,6 +222,36 @@ export const jewelrys = [
     category: "Brinco"
   },
   {
+    name: "Redondo Escovado",
+    price: "15.55",
+    code: "B852",
+    category: "Brinco"
+  },
+  {
+    name: "Martelado",
+    price: "26.50",
+    code: "B900",
+    category: "Brinco"
+  },
+  {
+    name: "Mini Argola Coração",
+    price: "15.99",
+    code: "B1401",
+    category: "Brinco"
+  },
+  {
+    name: "Duo Argola Ouro",
+    price: "29.99",
+    code: "B2101",
+    category: "Brinco"
+  },
+  {
+    name: "Duo Brinco Coração",
+    price: "20.49",
+    code: "B7501",
+    category: "Brinco"
+  },
+  {
     name: "Corrente Elos",
     price: "24.99",
     code: "C105",
@@ -400,5 +430,11 @@ export const jewelrys = [
     price: "21.00",
     code: "PL106",
     category: "Pulseira"
+  },
+  {
+    name: "Estrela Zirconia",
+    price: "27.99",
+    code: "T002",
+    category: "Tornozeleira"
   }
 ]
