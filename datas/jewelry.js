@@ -60,7 +60,7 @@ export const jewelrys = [
     category: "Brinco"
   },
   {
-    name: "Mini Argola Coração - Prata",
+    name: "Mini Argola Coração - Prata (B1402)",
     price: "15.99",
     code: "B1402",
     category: "Brinco"
@@ -252,6 +252,12 @@ export const jewelrys = [
     category: "Brinco"
   },
   {
+    name: "Mini Argola Coracão - Prata (B9402)",
+    price: "17.99",
+    code: "B9402",
+    category: "Brinco"
+  },
+  {
     name: "Corrente Elos",
     price: "24.99",
     code: "C105",
@@ -342,10 +348,16 @@ export const jewelrys = [
     category: "Colar"
   },
   {
-    name: "Coração White",
-    price: "48.99",
-    code: "CJ203",
-    category: "Conjunto"
+    name: "Choker Cordão Baiano - Prata",
+    price: "39.50",
+    code: "C9302",
+    category: "Colar"
+  },
+  {
+    name: "Ponto de Luz Zirconia",
+    price: "23.99",
+    code: "C3301",
+    category: "Colar"
   },
   {
     name: "Gota Lilas",
