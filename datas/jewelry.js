@@ -6,12 +6,6 @@ export const jewelrys = [
     category: "Anel"
   },
   {
-    name: "Quadrado Ouro",
-    price: "30.99",
-    code: "AN002",
-    category: "Anel"
-  },
-  {
     name: "Chatton gota blue",
     price: "33.99",
     code: "B175",
@@ -108,12 +102,6 @@ export const jewelrys = [
     category: "Brinco"
   },
   {
-    name: "Mini Argola Corrente Prata",
-    price: "29.50",
-    code: "B3402",
-    category: "Brinco"
-  },
-  {
     name: "Mini Argola Nó Ouro",
     price: "24.50",
     code: "B3701",
@@ -150,12 +138,6 @@ export const jewelrys = [
     category: "Brinco"
   },
   {
-    name: "Coracão Ouro M",
-    price: "10.99",
-    code: "B5601",
-    category: "Brinco"
-  },
-  {
     name: "Flor Strass Prata",
     price: "21.00",
     code: "B5702",
@@ -174,21 +156,9 @@ export const jewelrys = [
     category: "Brinco"
   },
   {
-    name: "Mini Argola Estrela",
-    price: "17.99",
-    code: "B1101",
-    category: "Brinco"
-  },
-  {
     name: "Mini Argola",
     price: "15.50",
     code: "B3501",
-    category: "Brinco"
-  },
-  {
-    name: "Coração P Aço Cirurgico",
-    price: "10.99",
-    code: "B7601",
     category: "Brinco"
   },
   {
@@ -417,12 +387,6 @@ export const jewelrys = [
     name: "Ponto de Luz Zirconia",
     price: "21.00",
     code: "PL101",
-    category: "Pulseira"
-  },
-  {
-    name: "Bolinhas Prata",
-    price: "31.00",
-    code: "PL105",
     category: "Pulseira"
   },
   {
