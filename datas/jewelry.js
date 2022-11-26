@@ -6,12 +6,6 @@ export const jewelrys = [
     category: "Anel"
   },
   {
-    name: "Chatton gota blue",
-    price: "33.99",
-    code: "B175",
-    category: "Brinco"
-  },
-  {
     name: "Pedraria zirconia morganita",
     price: "45.99",
     code: "B176",
@@ -204,12 +198,6 @@ export const jewelrys = [
     category: "Brinco"
   },
   {
-    name: "Duo Argola Ouro",
-    price: "29.99",
-    code: "B2101",
-    category: "Brinco"
-  },
-  {
     name: "Duo Brinco Coração",
     price: "20.49",
     code: "B7501",
@@ -258,33 +246,9 @@ export const jewelrys = [
     category: "Colar"
   },
   {
-    name: "Ponto de Luz Zirconia - Prata",
-    price: "23.99",
-    code: "C3402",
-    category: "Colar"
-  },
-  {
-    name: "Escapulario Ouro",
-    price: "31.00",
-    code: "C7001",
-    category: "Colar"
-  },
-  {
-    name: "Choker Estrela",
-    price: "27.99",
-    code: "C7501",
-    category: "Colar"
-  },
-  {
     name: "Pingente Cavalo Prata",
     price: "22.99",
     code: "C8302",
-    category: "Colar"
-  },
-  {
-    name: "Gravata Cruz",
-    price: "21.00",
-    code: "C8601",
     category: "Colar"
   },
   {
@@ -318,12 +282,6 @@ export const jewelrys = [
     category: "Colar"
   },
   {
-    name: "Ponto de Luz Zirconia",
-    price: "23.99",
-    code: "C3301",
-    category: "Colar"
-  },
-  {
     name: "Gota Lilas",
     price: "55.00",
     code: "CJ204",
@@ -333,12 +291,6 @@ export const jewelrys = [
     name: "Fake dois fios colors",
     price: "19.50",
     code: "PG010",
-    category: "Piercing"
-  },
-  {
-    name: "Fake prata liso",
-    price: "12.99",
-    code: "PG011",
     category: "Piercing"
   },
   {
