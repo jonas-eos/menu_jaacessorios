@@ -84,7 +84,7 @@ export class App {
 
       const list = this.#createList();
 
-      list.querySelector(".item-link").href = `https://api.whatsapp.com/send?phone=5533984552608&text=Olá, eu gostei da ${this.#category}  ${jewelry.name}`;
+      list.querySelector(".item-link").href = `https://api.whatsapp.com/send?phone=5533984552608&text=Olá, eu gostei da ${this.#category}  ${jewelry.name} (referência ${jewelry.code})`;
       list.querySelector(".item-name").innerHTML = jewelry.name
       list.querySelector(".item-image").src = `../images/${jewelry.code}.jpg`;
       list.querySelector('.item-image').alt = `${this.#category} ${jewelry.name}`;
