@@ -42,25 +42,37 @@ export const jewelrys = [
     category: "Anel"
   },
   {
+    name: "Fios Aro 18 - Ouro",
+    price: "14.99",
+    code: "2002118",
+    category: "Anel"
+  },
+  {
+    name: "Regulável - Prata",
+    price: "14.99",
+    code: "2009202",
+    category: "Anel"
+  },
+  {
     name: "Torcido - Ouro",
     price: "26.99",
     code: "9989501",
     category: "Bracelete"
   },
   {
-    name: "Pedraria zirconia morganita",
+    name: "Pedraria Zircônia morganita",
     price: "45.99",
     code: "B176",
     category: "Brinco"
   },
   {
-    name: "Pedraria zirconia frutacor",
+    name: "Pedraria Zircônia frutacor",
     price: "45.99",
     code: "B177",
     category: "Brinco"
   },
   {
-    name: "Festa zirconias rubi",
+    name: "Festa Zircônias rubi",
     price: "27.99",
     code: "B591",
     category: "Brinco"
@@ -72,7 +84,7 @@ export const jewelrys = [
     category: "Brinco"
   },
   {
-    name: "Cruz Zirconia - Rosa",
+    name: "Cruz Zircônia - Rosa",
     price: "20.50",
     code: "B0801",
     category: "Brinco"
@@ -144,7 +156,7 @@ export const jewelrys = [
     category: "Brinco"
   },
   {
-    name: "Flor Zirconia Ouro",
+    name: "Flor Zircônia Ouro",
     price: "17.99",
     code: "B5801",
     category: "Brinco"
@@ -198,55 +210,55 @@ export const jewelrys = [
     category: "Brinco"
   },
   {
-    name: "Mini Argola Infinito Zirconia - OR",
+    name: "Mini Argola Infinito Zircônia - OR",
     price: "28.99",
     code: "5675001",
     category: "Brinco"
   },
   {
-    name: "Mini Argola Zirconia Colors - OR",
+    name: "Mini Argola Zircônia Colors - OR",
     price: "28.99",
     code: "5726101",
     category: "Brinco"
   },
   {
-    name: "Mini Argola Zirconia Colors - PT",
+    name: "Mini Argola Zircônia Colors - PT",
     price: "28.99",
     code: "5726102",
     category: "Brinco"
   },
   {
-    name: "Mini Argola Zirconia Rosa - PT",
+    name: "Mini Argola Zircônia Rosa - PT",
     price: "37.99",
     code: "5726502",
     category: "Brinco"
   },
   {
-    name: "Mini Argola Zirconia Rosa - OR",
+    name: "Mini Argola Zircônia Rosa - OR",
     price: "30.99",
     code: "5726601",
     category: "Brinco"
   },
   {
-    name: "Mini Argola Zirconia Rosa - PT",
+    name: "Mini Argola Zircônia Rosa - PT",
     price: "30.99",
     code: "5726602",
     category: "Brinco"
   },
   {
-    name: "Mini Argola Zirconia Colors - OR",
+    name: "Mini Argola Zircônia Colors - OR",
     price: "40.99",
     code: "5726701",
     category: "Brinco"
   },
   {
-    name: "Argola Coracão Zirconia Colors - OR",
+    name: "Argola Coracão Zircônia Colors - OR",
     price: "40.99",
     code: "5726901",
     category: "Brinco"
   },
   {
-    name: "Argola Coracão Zirconia Colors - PT",
+    name: "Argola Coracão Zircônia Colors - PT",
     price: "40.99",
     code: "5726902",
     category: "Brinco"
@@ -258,25 +270,25 @@ export const jewelrys = [
     category: "Brinco"
   },
   {
-    name: "Mini Argola Estrela Zirconia Colors - PR",
+    name: "Mini Argola Estrela Zircônia Colors - PR",
     price: "27.99",
     code: "5727702",
     category: "Brinco"
   },
   {
-    name: "Zirconia - Cristal Prata",
+    name: "Zircônia - Cristal Prata",
     price: "27.99",
     code: "5727902",
     category: "Brinco"
   },
   {
-    name: "Lua Zirconia Colorido Prata",
+    name: "Lua Zircônia Colorido Prata",
     price: "26.99",
     code: "5728202",
     category: "Brinco"
   },
   {
-    name: "Trevo Zirconia Colors - OR",
+    name: "Trevo Zircônia Colors - OR",
     price: "24.99",
     code: "5728301",
     category: "Brinco"
@@ -291,6 +303,90 @@ export const jewelrys = [
     name: "Asa - Prata",
     price: "14.50",
     code: "B4802",
+    category: "Brinco"
+  },
+  {
+    name: "Olho Grego Zircônia Preto Prata",
+    price: "29.99",
+    code: "5676902",
+    category: "Brinco"
+  },
+  {
+    name: "Mini Argola Zircônia - OR",
+    price: "23.99",
+    code: "5711601",
+    category: "Brinco"
+  },
+  {
+    name: "Mini Argola Zircônia - Prata",
+    price: "23.99",
+    code: "5711602",
+    category: "Brinco"
+  },
+  {
+    name: "Mini Argola Coração Zircônia Cristal - OR",
+    price: "28.99",
+    code: "5725601",
+    category: "Brinco"
+  },
+  {
+    name: "Mini Argola Coração Zircônia Cristal - PT",
+    price: "28.99",
+    code: "5725602",
+    category: "Brinco"
+  },
+  {
+    name: "Mini Argola Zircônia Cristal - OR",
+    price: "29.99",
+    code: "5725701",
+    category: "Brinco"
+  },
+  {
+    name: "Mini Argola Zircônia Cristal - PT",
+    price: "29.99",
+    code: "5725702",
+    category: "Brinco"
+  },
+  {
+    name: "Mini Argola Zircônia Rosa - PT",
+    price: "31.99",
+    code: "5726402",
+    category: "Brinco"
+  },
+  {
+    name: "Mini Argola Coração Zircônia Colors - PT",
+    price: "31.99",
+    code: "5726802",
+    category: "Brinco"
+  },
+  {
+    name: "Mini Argola Coração Zircônia Colors - OR",
+    price: "25.99",
+    code: "5727101",
+    category: "Brinco"
+  },
+  {
+    name: "Zircônia Cristal - OR",
+    price: "27.99",
+    code: "5727901",
+    category: "Brinco"
+  },
+  {
+    name: "Lua Zircônia Colors - OR",
+    price: "26.99",
+    code: "5728201",
+    category: "Brinco"
+  },
+  {
+    name: "Brinco Borboleta - Prata",
+    price: "8.99",
+    code: "B4302",
+    category: "Brinco"
+  },
+  {
+    name: "Mini Argola Gota - Rosa Prata",
+    price: "24.50",
+    code: "B5009",
     category: "Brinco"
   },
   {
@@ -342,19 +438,19 @@ export const jewelrys = [
     category: "Colar"
   },
   {
-    name: "Choker Zirconia Ouro",
+    name: "Choker Zircônia Ouro",
     price: "39.99",
     code: "C9201",
     category: "Colar"
   },
   {
-    name: "Colar Gargantilha Fio Zirconia",
+    name: "Colar Gargantilha Fio Zircônia",
     price: "22.99",
     code: "C8602",
     category: "Colar"
   },
   {
-    name: "Colar Fio Coração Zirconia Prata",
+    name: "Colar Fio Coração Zircônia Prata",
     price: "21.00",
     code: "C8702",
     category: "Colar"
@@ -387,6 +483,12 @@ export const jewelrys = [
     name: "Choker Coração Ouro",
     price: "27.99",
     code: "C6601",
+    category: "Colar"
+  },
+  {
+    name: "Kid Coração",
+    price: "21.00",
+    code: "C1502",
     category: "Colar"
   },
   {
@@ -444,7 +546,13 @@ export const jewelrys = [
     category: "Piercing"
   },
   {
-    name: "Ponto de Luz Zirconia",
+    name: "Falso Piercing Zircônia - Ouro",
+    price: "27.99",
+    code: "PG6702",
+    category: "Piercing"
+  },
+  {
+    name: "Ponto de Luz Zircônia",
     price: "21.00",
     code: "PL101",
     category: "Pulseira"
@@ -468,9 +576,15 @@ export const jewelrys = [
     category: "Pulseira"
   },
   {
-    name: "Ponto de Luz Zirconia Prata",
+    name: "Ponto de Luz Zircônia Prata",
     price: "21.00",
     code: "PL108",
+    category: "Pulseira"
+  },
+  {
+    name: "Delicada - Coração",
+    price: "29.99",
+    code: "PL104",
     category: "Pulseira"
   }
 ]
