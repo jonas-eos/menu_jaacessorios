@@ -30,6 +30,24 @@ export const jewelrys = [
     category: "Anel"
   },
   {
+    name: "Fios Aro 20 - Ouro",
+    price: "14.99",
+    code: "2002120",
+    category: "Anel"
+  },
+  {
+    name: "Zig Zag Aro 18 - Prata",
+    price: "9.99",
+    code: "2007818",
+    category: "Anel"
+  },
+  {
+    name: "Torcido - Prata",
+    price: "26.99",
+    code: "9989502",
+    category: "Bracelete"
+  },
+  {
     name: "Pedraria Zircônia morganita",
     price: "35.99",
     code: "B176",
@@ -93,12 +111,6 @@ export const jewelrys = [
     name: "Argola Tubo P - Prata",
     price: "29.50",
     code: "B5102",
-    category: "Brinco"
-  },
-  {
-    name: "Flor Zircônia Ouro",
-    price: "17.99",
-    code: "B5801",
     category: "Brinco"
   },
   {
@@ -222,12 +234,6 @@ export const jewelrys = [
     category: "Brinco"
   },
   {
-    name: "Mini Argola Zircônia Cristal - OR",
-    price: "29.99",
-    code: "5725701",
-    category: "Brinco"
-  },
-  {
     name: "Mini Argola Zircônia Rosa - PT",
     price: "31.99",
     code: "5726402",
@@ -255,6 +261,30 @@ export const jewelrys = [
     name: "Mini Argola Gota - Rosa Prata",
     price: "24.50",
     code: "B5009",
+    category: "Brinco"
+  },
+  {
+    name: "Mini Argola Zircônia Colorido Prata",
+    price: "27.99",
+    code: "5711502",
+    category: "Brinco"
+  },
+  {
+    name: "Mini Argola Zircônia Colors - PT",
+    price: "24.99",
+    code: "5726302",
+    category: "Brinco"
+  },
+  {
+    name: "Mini Argola Zircônia Colors - PT",
+    price: "40.99",
+    code: "5726702",
+    category: "Brinco"
+  },
+  {
+    name: "Argola Fio Torcido Ouro",
+    price: "29.50",
+    code: "B3101",
     category: "Brinco"
   },
   {
@@ -288,9 +318,69 @@ export const jewelrys = [
     category: "Colar"
   },
   {
+    name: "Coração - OR",
+    price: "29.99",
+    code: "4421801",
+    category: "Colar"
+  },
+  {
+    name: "Coração - Prata",
+    price: "29.99",
+    code: "4421802",
+    category: "Colar"
+  },
+  {
+    name: "Coração - OR",
+    price: "29.99",
+    code: "4426001",
+    category: "Colar"
+  },
+  {
+    name: "Coração - PT",
+    price: "29.99",
+    code: "4426002",
+    category: "Colar"
+  },
+  {
+    name: "Ponto de Luz Gota Zircônia - OR",
+    price: "27.99",
+    code: "4444001",
+    category: "Colar"
+  },
+  {
+    name: "Ponto de Luz Gota Zircônia - Cristal Prata",
+    price: "27.99",
+    code: "4444002",
+    category: "Colar"
+  },
+  {
+    name: "Religioso - Prata",
+    price: "36.99",
+    code: "4444102",
+    category: "Colar"
+  },
+  {
+    name: "Choker Coração Ouro",
+    price: "27.99",
+    code: "C6601",
+    category: "Colar"
+  },
+  {
+    name: "Gota Lilas",
+    price: "55.00",
+    code: "CJ204",
+    category: "Conjunto"
+  },
+  {
     name: "Pedraria verde água",
     price: "23.99",
     code: "PG090",
+    category: "Piercing"
+  },
+  {
+    name: "Falso Piercing Pressão Corrente",
+    price: "17.99",
+    code: "PG2901",
     category: "Piercing"
   }
 ]
