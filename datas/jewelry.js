@@ -132,12 +132,6 @@ export const jewelrys = [
     category: "Brinco"
   },
   {
-    name: "Redondo Escovado",
-    price: "15.50",
-    code: "B852",
-    category: "Brinco"
-  },
-  {
     name: "Duo Brinco Coração",
     price: "20.49",
     code: "B7501",
@@ -282,12 +276,6 @@ export const jewelrys = [
     category: "Brinco"
   },
   {
-    name: "Argola Fio Torcido Ouro",
-    price: "29.50",
-    code: "B3101",
-    category: "Brinco"
-  },
-  {
     name: "Manta",
     price: "19.99",
     code: "C730",
@@ -303,12 +291,6 @@ export const jewelrys = [
     name: "Kid Coração",
     price: "21.00",
     code: "C1501",
-    category: "Colar"
-  },
-  {
-    name: "Choker Zircônia Ouro",
-    price: "39.99",
-    code: "C9201",
     category: "Colar"
   },
   {
@@ -360,12 +342,6 @@ export const jewelrys = [
     category: "Colar"
   },
   {
-    name: "Choker Coração Ouro",
-    price: "27.99",
-    code: "C6601",
-    category: "Colar"
-  },
-  {
     name: "Gota Lilas",
     price: "55.00",
     code: "CJ204",
@@ -381,6 +357,18 @@ export const jewelrys = [
     name: "Falso Piercing Pressão Corrente",
     price: "17.99",
     code: "PG2901",
+    category: "Piercing"
+  },
+  {
+    name: "Pressão Corrente Zircônia - Dourado",
+    price: "27.99",
+    code: "5696801",
+    category: "Piercing"
+  },
+  {
+    name: "Falso Piercing Pressão Prata",
+    price: "16.99",
+    code: "PG2802",
     category: "Piercing"
   }
 ]
