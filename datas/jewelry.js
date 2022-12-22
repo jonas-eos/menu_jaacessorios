@@ -42,12 +42,6 @@ export const jewelrys = [
     category: "Anel"
   },
   {
-    name: "Torcido - Prata",
-    price: "26.99",
-    code: "9989502",
-    category: "Bracelete"
-  },
-  {
     name: "Pedraria Zircônia morganita",
     price: "35.99",
     code: "B176",
@@ -129,12 +123,6 @@ export const jewelrys = [
     name: "Mini Argola Gota - Prata Cristal",
     price: "24.99",
     code: "B5006",
-    category: "Brinco"
-  },
-  {
-    name: "Duo Brinco Coração",
-    price: "20.49",
-    code: "B7501",
     category: "Brinco"
   },
   {
@@ -340,12 +328,6 @@ export const jewelrys = [
     price: "36.99",
     code: "4444102",
     category: "Colar"
-  },
-  {
-    name: "Gota Lilas",
-    price: "55.00",
-    code: "CJ204",
-    category: "Conjunto"
   },
   {
     name: "Pedraria verde água",
